@@ -1,4 +1,4 @@
 # XT
-oefening
 Welkom op mijn repository
-[klik]() hier voor de website
+
+[klik](https://mikescholtes.github.io/XT/) hier voor de website
